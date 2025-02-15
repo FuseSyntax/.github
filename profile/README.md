@@ -1,6 +1,5 @@
-# 👋 Welcome to [Your Organization Name]!
+# 👋 Welcome to FuseSyntax!
 
-![Banner or Logo](https://your-image-url.png)
 
 **We build [brief mission statement].**  
 ✨ Open Source | 🚀 Innovation | 🌍 Community
