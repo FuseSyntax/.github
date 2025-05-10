@@ -9,9 +9,8 @@
 ## 🛠️ **Projects**
 | Project | Description | Status |
 |---------|-------------|--------|
-| [Repo 1](link) | Short description | ![Active](https://img.shields.io/badge/status-active-green) |
-| [Decentlink](https://github.com/FuseSyntax/decentlink) | Decentralized URL shortening service that allows users to create short
- | ![In Progress](https://img.shields.io/badge/status-in_progress-yellow) |
+| [AiThopia](https://github.com/FuseSyntax/AItopia) | An innovative AI-powered platform that brings cutting-edge tools to creators, developers, and businesses | ![Active](https://img.shields.io/badge/status-active-green) |
+| [Decentlink](https://github.com/FuseSyntax/decentlink) | Decentralized URL shortening service that allows users to create short | ![In Progress](https://img.shields.io/badge/status-in_progress-yellow) |
 
 ---
 
