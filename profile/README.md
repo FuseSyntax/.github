@@ -10,7 +10,7 @@
 | Project | Description | Status |
 |---------|-------------|--------|
 | [Repo 1](link) | Short description | ![Active](https://img.shields.io/badge/status-active-green) |
-| [Decentlink]([link](https://github.com/FuseSyntax/decentlink)) | Decentralized URL shortening service that allows users to create short
+| [Decentlink](https://github.com/FuseSyntax/decentlink) | Decentralized URL shortening service that allows users to create short
  | ![In Progress](https://img.shields.io/badge/status-in_progress-yellow) |
 
 ---
